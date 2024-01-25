@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 🔭 I’m currently looking for **INTENRSHIPS**
+- 🌱 I’m currently learning **_JAVA + DSA_**
+- 🤔 I’m looking for help with **FRONT-END DEVELOPMENT**
+- 💬 Ask me about **CYBERSECURITY,COMPUTER NETWORKING,JAVA,MYSQL**
+- 📫 How to reach me: **LINKEDIN , MAIL**
+- 😄 Pronouns: **LIFOX or MAYONNAISE**
 
 <!--
 **iamlifox/iamlifox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
