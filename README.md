@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently looking for **INTENRSHIPS**
+- 🔭 I’m currently looking for **INTERNSHIPS**
 - 🌱 I’m currently learning **_JAVA + DSA_**
 - 🤔 I’m looking for help with **FRONT-END DEVELOPMENT**
 - 💬 Ask me about **CYBERSECURITY,COMPUTER NETWORKING,JAVA,MYSQL**
