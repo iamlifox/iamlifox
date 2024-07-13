@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently looking for **INTERNSHIPS**
 - 🌱 I’m currently learning **_JAVA + DSA_**
-- 🤔 I’m looking for help with **FRONT-END DEVELOPMENT**
-- 💬 Ask me about **CYBERSECURITY,COMPUTER NETWORKING,JAVA,MYSQL**
+- 🤔 I’m looking for help with **DATA SCIENCE , MACHINE LEARNING & AI**
+- 💬 Ask me about **DATA SCIENCE,MACHINE LEARNING,CYBERSECURITY,COMPUTER NETWORKING,JAVA,MYSQL**
 - 📫 How to reach me: **LINKEDIN , MAIL**
 - 😄 Pronouns: **LIFOX or MAYONNAISE**
 
